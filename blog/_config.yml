@@ -1,0 +1,21 @@
+title: "~/dev/blog"
+description: "Notes on software engineering, AI/ML, and systems thinking"
+author: "Shubham"
+url: "https://shubham031194.github.io"
+baseurl: "/LLMs"
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - new_post.sh
+  - README.md
+  - Gemfile
+  - Gemfile.lock
