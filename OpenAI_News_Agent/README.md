@@ -3,7 +3,7 @@
 ### Introduction
 This project is a news aggregation tool designed for developers, leveraging Python, OpenAI API services, Google Search News XML fetch, and Streamlit. It simplifies the process of gathering, filtering, and presenting news articles, making it easier for developers to stay informed.
 
-![NewAgent.](https://github.com/shubham031194/LLMs/OpenAI_News_Agent/blob/main/resources/newsagent.png)
+![NewAgent.](https://github.com/shubham031194/LLMs/OpenAI_News_Agent/resources/newsagent.png)
 
 ### Services Used:
 1. **OpenAI API Service:** We leverage OpenAI's powerful API to generate professional-looking articles based on the collected news data. This service enhances the readability and coherence of the news content, providing users with a seamless reading experience.
@@ -26,7 +26,7 @@ This project is a news aggregation tool designed for developers, leveraging Pyth
 To make you streamlit app public while running on google colab notebook you need to have authorix=zation token from ngrok. 
 To get the token follow below steps:
 1. Create account on https://dashboard.ngrok.com/
-2. Go to Tunnel --> Auththokes ![](https://github.com/shubham031194/LLMs/OpenAI_News_Agent/blob/main/resources/Screenshot%202024-05-02%20124406.png)
+2. Go to Tunnel --> Auththokes ![](https://github.com/shubham031194/LLMs/OpenAI_News_Agent/resources/Screenshot_202024-05-02_20124406.png)
 3. Genrate your token and use it.
 
 ### Project Execution flow
